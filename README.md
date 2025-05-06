@@ -11,6 +11,7 @@ Currently, I have three pages. One is my home page with a little section with an
 
 The directory structure is as follows:
 
+```
 ├── contact.html
 ├── index.html
 ├── public
@@ -24,6 +25,7 @@ The directory structure is as follows:
 │   ├── ss2.png
 │   └── ss3.png
 └── work.html
+```
 
 This is the output of the tree command verbatim.
 
